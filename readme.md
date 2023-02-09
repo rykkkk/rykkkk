@@ -1,4 +1,11 @@
-##
+# Hi! 👋 This is my GitHub profile
+
+## How exciting
+
+<a href="https://github.com/ryk-k" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/54002941?v=4" title="My old profile" alt="My old profile" width="100">
+</a>
+<<<< link to my old profile (this is my student account):
 
 ## 😂 Random joke generator
 
@@ -52,7 +59,6 @@
 ##### Databases
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
