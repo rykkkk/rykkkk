@@ -1,6 +1,6 @@
 # Hi! 👋 This is my GitHub profile
 
-## How exciting
+## How exciting!
 
 <a href="https://github.com/ryk-k" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/54002941?v=4" title="My old profile" alt="My old profile" width="100">
