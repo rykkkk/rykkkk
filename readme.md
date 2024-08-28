@@ -14,6 +14,6 @@
 ##
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rykkkk)
-( as of 6 Feb 2022 + mostly viewed by me 😂)
+( as of 6 Feb 2022 )
 
 ##
